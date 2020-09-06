@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "Casio G-SHOCK GA-100-1A1ER",
+    "price": "1404.99",
+    "image": "./images/product-1.jpeg"
+  },
+  {
+    "id": "2",
+    "title": "Casio G-SHOCK GA-100-1A1ER",
+    "price": "484.99",
+    "image": "./images/product-2.jpeg"
+  },
+  {
+    "id": "3",
+    "title": "Casio G-SHOCK GA-100-1A1ER",
+    "price": "424.99",
+    "image": "./images/product-3.jpeg"
+  },
+  {
+    "id": "4",
+    "title": "Casio G-SHOCK GA-100-1A1ER",
+    "price": "554.99",
+    "image": "./images/product-4.jpeg"
+  },
+  {
+    "id": "5",
+    "title": "Certina C029.426.11.091.60",
+    "price": "3687.99",
+    "image": "./images/product-5.jpeg"
+  },
+  {
+    "id": "6",
+    "title": "Tissot T116.617.16.037.00",
+    "price": "1364.99",
+    "image": "./images/product-6.jpeg"
+  },
+  {
+    "id": "7",
+    "title": "Vostok Europe YN84-575O540",
+    "price": "3861.99",
+    "image": "./images/product-7.jpeg"
+  },
+  {
+    "id": "8",
+    "title": "Casio G-SHOCK GWR-B1000X-1AER",
+    "price": "3990.99",
+    "image": "./images/product-8.jpeg"
+  }
+]
